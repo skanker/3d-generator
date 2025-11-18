@@ -1,0 +1,5 @@
+{
+  "name": "Hyper3D Generator",
+  "description": "An avant-garde interface for generating 3D models from images using Hyper3D AI.",
+  "requestFramePermissions": []
+}
